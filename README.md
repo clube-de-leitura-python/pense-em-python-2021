@@ -4,7 +4,7 @@
 - Livro "Pense em Python" de Allen Downey disponível em https://penseallen.github.io/PensePython2e/
 - **Início em 30/07/2021 (tele-encontros), leia o prefácio!**
 - sextas-feiras 9AM­−10AM (UTC-3, Brasília) cada duas semanas.
-- `breve mais informações para "sala" o encontro online`
+- `breve mais informações para "sala" do encontro online`
 
 No primeiro dia vamos conversar sobre o prefácio, tirar dúvidas e indicar o que vai ser lido em seguida. 
 
