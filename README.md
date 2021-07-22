@@ -15,4 +15,7 @@
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
 > Monte um grupo e procuramos na comunidade uma outra pessoa para mediar.
 
+---
+
+![clube_de_leitura_python](https://user-images.githubusercontent.com/3694604/126589139-b52c2bc0-937a-4238-b3ba-189dec5d4c64.png)
 
