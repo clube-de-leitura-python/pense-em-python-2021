@@ -1,5 +1,5 @@
-# Grupo de leitura do Pense em Python de Allen Downey 
-## disponível para leitura em [penseallen.github.io/PensePython2e](https://penseallen.github.io/PensePython2e/)
+## Grupo de leitura do livro Pense em Python de Allen Downey 
+### disponível para leitura em [penseallen.github.io/PensePython2e](https://penseallen.github.io/PensePython2e/)
 
 ### Informações gerais
 - O objetivo aqui não é a pessoa virar desenvolvedora profissional, mas sim poder usar programação na sua própria profissão ou atividades de interesse. Python pode ser legal para isso;
