@@ -19,3 +19,6 @@
 
 ![clube_de_leitura_python](https://user-images.githubusercontent.com/3694604/126589139-b52c2bc0-937a-4238-b3ba-189dec5d4c64.png)
 
+---
+
+O clube de leitura Python não tem nehuma relação com a APyBR mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
