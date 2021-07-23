@@ -6,6 +6,7 @@
 - Você vai precisar de um computador para instalar Python (vale um computador antigo, não rola legal no celular ou tablet), tente instalar o editor de código [Thonny.org](https://thonny.org) que vem com um Python 3 embutido;
 - O escopo é limitado: o que tiver no trecho do livro do Downey combinado. Quem quiser discutir assuntos mais avançados pode formar grupos paralelos;
 - É grátis, isto aqui é um lance comunitário, de aprender junto, trocar conhecimento.
+- Crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
 
 #### Segundo semestre de 2021 (tele-encontros)
 - **Primeiro encontro em 30/07/2021**, sextas-feiras **9AM−10AM** (UTC-3, Brasília) **a cada duas semanas** (Mediação [@villares](http://github.com/villares));
