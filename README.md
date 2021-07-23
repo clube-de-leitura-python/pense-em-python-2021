@@ -21,4 +21,4 @@
 
 ---
 
-O clube de leitura Python não tem nehuma relação com a APyBR mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
+O clube de leitura Python não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
