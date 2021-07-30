@@ -13,7 +13,7 @@
 - Leia o prefácio! No primeiro dia vamos conversar sobre o prefácio, tirar dúvidas e indicar o que vai ser lido em seguida;
 - Se você quiser receber um email com um lembrete e o link da sala, [cadastre-se aqui](https://tinyletter.com/clube-de-leitura-python). Usaremos o email unicamente para isso.
 - O encontro vai ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
-  - **`Publicaremos aqui o link para a sala de encontro _online_ no dia`**.
+  - [meet.jit.si/moderated/376165a68e5f985ba707f96330af847f2d97463e14e2dc8db6b0638c460b72037](https://meet.jit.si/moderated/376165a68e5f985ba707f96330af847f2d97463e14e2dc8db6b0638c460b72037)
   - senha: `penseallen`
 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
