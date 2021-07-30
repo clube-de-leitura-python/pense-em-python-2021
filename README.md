@@ -23,7 +23,7 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
     - senha: `penseallen`
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
 
-- **2° encontro em 13/07/2921**
+- **2° encontro em 13/07/2021**
 
   - TBD
 
