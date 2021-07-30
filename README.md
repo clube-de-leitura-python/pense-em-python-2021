@@ -19,13 +19,14 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
   - Leia o prefácio! No primeiro dia vamos conversar sobre o prefácio, tirar dúvidas e indicar o que vai ser lido em seguida;
   - Se você quiser receber um email com um lembrete e o link da sala, [cadastre-se aqui](https://tinyletter.com/clube-de-leitura-python). Usaremos o email unicamente para isso.
   - O encontro vai ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
-    - [meet.jit.si/moderated/376165a68e5f985ba707f96330af847f2d97463e14e2dc8db6b0638c460b72037](https://meet.jit.si/moderated/376165a68e5f985ba707f96330af847f2d97463e14e2dc8db6b0638c460b72037)
-    - senha: `penseallen`
+    - tivemos um pouco de problemas técnicos, divididos em duas salas 
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
 
 - **2° encontro em 13/07/2021**
 
-  - TBD
+  - Ler capítulos 1 e 2
+  - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
+  - Link para sala vai ser aqui... (
 
 ---
 
