@@ -22,6 +22,7 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
     - Depois de um pouco de problemas técnicos, divididos em duas salas, deu certo...
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
     - Teve sugestão de escrever sobre motivações no fórum!
+    - Versão de apenas leitura do pad que usamos na conversa: https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8
     
 - **2° encontro em 13/08/2021**
 
