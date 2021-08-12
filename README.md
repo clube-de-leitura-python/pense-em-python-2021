@@ -8,7 +8,7 @@
 - É grátis, isto aqui é um lance comunitário, de aprender junto, trocar conhecimento.
 
 #### Segundo semestre de 2021 (tele-encontros)
-##### sextas-feiras **9AM−10AM** (nove da manhã, UTC-3, Brasília) **a cada duas semanas**, início em 30/07/2021
+##### sextas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) **a cada duas semanas**, início em 30/07/2021
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
  
@@ -24,7 +24,7 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
     - Teve sugestão de escrever sobre motivações no fórum!
     - Versão de apenas leitura do pad que usamos na conversa: https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8
     
-- **2° encontro em 13/08/2021**
+- **2° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
 
   - **Ler capítulos 1 e 2**
   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
