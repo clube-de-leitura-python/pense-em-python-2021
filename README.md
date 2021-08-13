@@ -25,11 +25,15 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
     - Versão de apenas leitura do pad que usamos na conversa: https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8
     
 - **2° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre os capítulos 1 e 2
+   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
+   - [Pad do grupo (apenas leitura)]https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
 
-  - **Ler capítulos 1 e 2**
-  - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
-  - Link para sala vai ser https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
-    - se pedir senha: `penseallen`
+
+- **3° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
+   - **Ler capítulo 3**
+   -  Vamos por o link da sala aqui!
+
 ---
 
 ![clube_de_leitura_python](https://user-images.githubusercontent.com/3694604/126589139-b52c2bc0-937a-4238-b3ba-189dec5d4c64.png)
