@@ -29,7 +29,7 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
   - **Ler capítulos 1 e 2**
   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
   - Link para sala vai ser https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
-
+    - se pedir senha: `penseallen`
 ---
 
 ![clube_de_leitura_python](https://user-images.githubusercontent.com/3694604/126589139-b52c2bc0-937a-4238-b3ba-189dec5d4c64.png)
