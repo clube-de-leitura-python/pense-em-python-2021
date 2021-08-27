@@ -32,7 +32,9 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
 
 - **3° encontro em 27/08/2021** 9h da manhã, UTC-3, Brasília
    - **Ler capítulo 3**
-   -  Vamos por o link da sala aqui!
+   -  Sala igual a do último encontro:
+       -  https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+       
 
 ---
 
