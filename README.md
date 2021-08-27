@@ -26,15 +26,17 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
     
 - **2° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
    - Conversamos sobre os capítulos 1 e 2
-   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
    - [Pad do grupo (apenas leitura)](https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
 
 
 - **3° encontro em 27/08/2021** 9h da manhã, UTC-3, Brasília
-   - **Ler capítulo 3**
-   -  Sala igual a do último encontro:
-       -  https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
-       
+   - Conversamos sobre o capítulo 3
+   - Os exercícios eram difíceis, confira parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
+   - Se você não conseguiu participar do 3° encontro, não desanime, converse no fórum!
+
+- **4° encontro em 10/09/2021** 9h da manhã, UTC-3, Brasília
+   - Combinamos de ler o capítulo 4
+   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
 
 ---
 
