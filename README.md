@@ -35,9 +35,13 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
    - Se você não conseguiu participar do 3° encontro, não desanime, converse no fórum!
 
 - **4° encontro em 10/09/2021** 9h da manhã, UTC-3, Brasília
-   - Combinamos de ler o capítulo 4
+   - Conversamos sobre o capítulo 4
+   - Parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
+
+- **5º encontro em 24/09/2021** 9h da manhã, UTC-3, Brasília
+   - Combinamos de ler o capítulo 5:  condicionais e recursividade
    - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
-   - Sala https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+
 
 ---
 
