@@ -44,6 +44,7 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
 - **6º encontro em 08/10/2021** 9h da manhã, UTC-3, Brasília
    - Combinamos de fazer uma grande revisão e conversa para a retomada de quem perdeu encontros anteriores!
    - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
+   - Sala online do encontro: https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
 
 ---
 
