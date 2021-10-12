@@ -12,8 +12,31 @@
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
  
-> Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
-> Monte um grupo e procuramos na comunidade uma outra pessoa para mediar.
+- **7º encontro em 22/10/2021** 9h da manhã, UTC-3, Brasília
+   - Vamos conversar sobre o capítulo 6
+   - Sala online do encontro: https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+
+
+- **6º encontro em 08/10/2021** 9h da manhã, UTC-3, Brasília
+   - Combinamos de fazer uma grande revisão e conversa para a retomada de quem perdeu encontros anteriores!
+   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
+
+- **5º encontro em 24/09/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre o capítulo 5:  condicionais e recursividade
+
+- **4° encontro em 10/09/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre o capítulo 4
+   - Parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
+
+- **3° encontro em 27/08/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre o capítulo 3
+   - Os exercícios eram difíceis, confira parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
+   - Se você não conseguiu participar do 3° encontro, não desanime, converse no fórum!
+    
+- **2° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre os capítulos 1 e 2
+   - [Pad do grupo (apenas leitura)](https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
+
 
 - **1° encontro em 30/07/2021**
   - Leia o prefácio! No primeiro dia vamos conversar sobre o prefácio, tirar dúvidas e indicar o que vai ser lido em seguida;
@@ -23,28 +46,9 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
     - Teve sugestão de escrever sobre motivações no fórum!
     - Versão de apenas leitura do pad que usamos na conversa: https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8
-    
-- **2° encontro em 13/08/2021** 9h da manhã, UTC-3, Brasília
-   - Conversamos sobre os capítulos 1 e 2
-   - [Pad do grupo (apenas leitura)](https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
 
-
-- **3° encontro em 27/08/2021** 9h da manhã, UTC-3, Brasília
-   - Conversamos sobre o capítulo 3
-   - Os exercícios eram difíceis, confira parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
-   - Se você não conseguiu participar do 3° encontro, não desanime, converse no fórum!
-
-- **4° encontro em 10/09/2021** 9h da manhã, UTC-3, Brasília
-   - Conversamos sobre o capítulo 4
-   - Parte da conversa e comentários no pad (https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8) 
-
-- **5º encontro em 24/09/2021** 9h da manhã, UTC-3, Brasília
-   - Conversamos sobre o capítulo 5:  condicionais e recursividade
-
-- **6º encontro em 08/10/2021** 9h da manhã, UTC-3, Brasília
-   - Combinamos de fazer uma grande revisão e conversa para a retomada de quem perdeu encontros anteriores!
-   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
-   - Sala online do encontro: https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+> Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
+> Monte um grupo e procuramos na comunidade uma outra pessoa para mediar.
 
 ---
 
