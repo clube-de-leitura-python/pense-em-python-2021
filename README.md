@@ -11,7 +11,12 @@
 ##### sextas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) **a cada duas semanas**, início em 30/07/2021
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
+
  
+ - **9º encontro em 19/11/2021** 9h da manhã, UTC-3, Brasília
+   - Vamos conversar sobre o capítulo 8
+   - Sala online do encontro:
+
  - **8º encontro em 05/11/2021** 9h da manhã, UTC-3, Brasília
    - Vamos conversar sobre o capítulo 7
    - Sala online do encontro: https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
