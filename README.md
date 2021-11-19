@@ -13,6 +13,10 @@
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
 
  
+ - **10º encontro em 03/12/2021** 9h da manhã, UTC-3, Brasília
+   - Vamos conversar sobre os __Strings e Palavras__ dos capítulos 8 e 9
+   - Sala online do encontro:
+
  - **9º encontro em 19/11/2021** 9h da manhã, UTC-3, Brasília
    - Vamos conversar sobre o capítulo 8
    - Sala online do encontro:
