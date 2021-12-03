@@ -12,10 +12,16 @@
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
 
- 
- - **10º encontro em 03/12/2021** 9h da manhã, UTC-3, Brasília
-   - Vamos conversar sobre os __Strings e Palavras__ dos capítulos 8 e 9
+
+
+
+ - **11º encontro em 17/12/2021** 9h da manhã, UTC-3, Brasília
+   - Vamos conversar sobre os __Strings e Palavras__ do capítulo 9
    - Sala online do encontro: https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+   - conversamos que o 12º encontro será em 07/01/2022 
+  
+ - **10º encontro em 03/12/2021** 9h da manhã, UTC-3, Brasília
+   - Conversamos sobre os __Strings e Palavras__ dos capítulos 8 e 9
 
  - **9º encontro em 19/11/2021** 9h da manhã, UTC-3, Brasília
    - Conversa sobre o capítulo 8
