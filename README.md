@@ -14,7 +14,8 @@ Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http:
 
 
 
- - **12º encontro em 07/01/2022** 9h da manhã, UTC-3, Brasília
+ - **12º encontro em 07/01/2022** 9h da manhã, UTC-3, Brasília´
+   - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
    - Vamos conversar sobre os __Strings e Palavras__ dos capítulos 8 e 9
    - e as Resoluções de Ano Novo.
   
