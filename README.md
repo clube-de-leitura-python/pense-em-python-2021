@@ -12,7 +12,7 @@
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
 
-- **13º encontro em 4/02/2022** 9h da manhã, UTC-3, Brasília´
+- **14º encontro em 4/02/2022** 9h da manhã, UTC-3, Brasília´
    - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
    - Vamos conversar sobre onde estamos no livro e pra onde queremos ir.
 
