@@ -7,17 +7,19 @@
 - O escopo é limitado: o que tiver no trecho do livro do Downey combinado. Quem quiser discutir assuntos mais avançados pode formar grupos paralelos;
 - É grátis, isto aqui é um lance comunitário, de aprender junto, trocar conhecimento.
 
-#### Segundo semestre de 2021 (tele-encontros)
+#### Iniciado no segundo semestre de 2021, continua em 2022 (tele-encontros)
 ##### sextas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) **a cada duas semanas**, início em 30/07/2021
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
 
-- **14º encontro em 4/02/2022** 9h da manhã, UTC-3, Brasília´
+ - **15º encontro em 18/02/2022** 9h da manhã, UTC-3, Brasília´
    - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
+   - Vamos conversar sobre o capítulo 10.
+
+ - **14º encontro em 4/02/2022** 9h da manhã, UTC-3, Brasília´
    - Vamos conversar sobre onde estamos no livro e pra onde queremos ir.
 
  - **13º encontro em 21/01/2022** 9h da manhã, UTC-3, Brasília´
-   - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
    - Vamos conversar sobre onde estamos no livro e pra onde queremos ir.
   
  - **12º encontro em 07/01/2022** 9h da manhã, UTC-3, Brasília´
