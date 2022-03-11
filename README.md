@@ -1,6 +1,8 @@
 ## Grupo de leitura do livro _Pense em Python_ de Allen Downey 
 ### disponível para leitura em [penseallen.github.io/PensePython2e](https://penseallen.github.io/PensePython2e/)
 
+# Encontros encerrados, vamos montar outro grupo em breve!
+
 #### Informações gerais
 - O objetivo aqui não é a pessoa virar desenvolvedora profissional, mas sim poder usar programação na sua própria profissão ou atividades de interesse. Python pode ser legal para isso;
 - Você vai precisar de um computador para instalar Python (vale um computador antigo, não rola legal no celular ou tablet), tente instalar o editor de código [Thonny.org](https://thonny.org) que vem com um Python 3 embutido;
@@ -12,8 +14,10 @@
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
 
+ - **16º encontro em 25/02/2022** 9h da manhã, UTC-3, Brasília´
+   - Decidimos repensar os encontros do clube de leitura
+
  - **15º encontro em 18/02/2022** 9h da manhã, UTC-3, Brasília´
-   - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
    - Vamos conversar sobre o capítulo 10.
 
  - **14º encontro em 4/02/2022** 9h da manhã, UTC-3, Brasília´
