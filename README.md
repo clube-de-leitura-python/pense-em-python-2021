@@ -1,7 +1,11 @@
 ## Grupo de leitura do livro _Pense em Python_ de Allen Downey 
 ### disponível para leitura em [penseallen.github.io/PensePython2e](https://penseallen.github.io/PensePython2e/)
 
-<strong style="color:FF0000">Encontros encerrados, novo grupo mensal em https://clube-de-leitura-python.github.io/primeiro_grupo_de_2022.py/</strong>
+----
+
+<i style="color: red">Encontros encerrados, novo grupo mensal em: [clube-de-leitura-python.github.io/primeiro_grupo_de_2022.py](https://clube-de-leitura-python.github.io/primeiro_grupo_de_2022.py)</i>
+
+----
 
 #### Informações gerais
 - O objetivo aqui não é a pessoa virar desenvolvedora profissional, mas sim poder usar programação na sua própria profissão ou atividades de interesse. Python pode ser legal para isso;
